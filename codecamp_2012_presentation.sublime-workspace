@@ -1,0 +1,1391 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"isset"
+			],
+			[
+				"selec",
+				"selectedIndex"
+			],
+			[
+				"sele",
+				"selectedIndex"
+			],
+			[
+				"sel",
+				"selectedIndex"
+			],
+			[
+				"auto",
+				"autocomplete_dropdown"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"hay",
+				"haystack"
+			],
+			[
+				"are",
+				"areMatchingUsers"
+			],
+			[
+				"areM",
+				"areMatchingDistros"
+			],
+			[
+				"Auto",
+				"autoCompleteUsers"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"JSON",
+				"json_encode"
+			],
+			[
+				"n",
+				"nowrap"
+			],
+			[
+				"err",
+				"error_log"
+			],
+			[
+				"attach",
+				"attachments_list"
+			],
+			[
+				"cancel",
+				"cancelUpload"
+			],
+			[
+				"upl",
+				"uploadQueue"
+			],
+			[
+				"comp",
+				"completeQueue"
+			],
+			[
+				"attende",
+				"attendee_extensions"
+			],
+			[
+				"ser",
+				"seriesPromise"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"sendNo",
+				"sendNotFound"
+			],
+			[
+				"freebusy",
+				"freebusy_reflector"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"error",
+				"error_log"
+			],
+			[
+				"par",
+				"parentWindow"
+			],
+			[
+				"Re",
+				"RecurrenceTab"
+			],
+			[
+				"specifi",
+				"specificMonth"
+			],
+			[
+				"U",
+				"UTCDate"
+			],
+			[
+				"strR",
+				"str_replace"
+			],
+			[
+				"singl",
+				"single_series_btn"
+			],
+			[
+				"fun",
+				"function_exists"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"f",
+				"f	Anonymous Function"
+			],
+			[
+				"spec",
+				"specificDay"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"App",
+				"Application_Model_Eventdomain"
+			],
+			[
+				"count",
+				"counts"
+			],
+			[
+				"erro",
+				"error_log"
+			],
+			[
+				"spe",
+				"specificDay"
+			],
+			[
+				"rul",
+				"rulekeys2"
+			],
+			[
+				"setByM",
+				"setByMonthDay"
+			],
+			[
+				"mo",
+				"model_monthly"
+			],
+			[
+				"dis",
+				"displayStart"
+			],
+			[
+				"star",
+				"startDate"
+			],
+			[
+				"rrule",
+				"rruleString"
+			],
+			[
+				"model",
+				"model_preview"
+			],
+			[
+				"bysetpos",
+				"bysetposType"
+			],
+			[
+				"key",
+				"keyValue"
+			],
+			[
+				"fo",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"rrul",
+				"rruleSummary"
+			],
+			[
+				"retur",
+				"returnDates"
+			],
+			[
+				"fa",
+				"failedTests"
+			],
+			[
+				"week",
+				"weekDaysStandard"
+			],
+			[
+				"Week",
+				"weekDays"
+			],
+			[
+				"by",
+				"bysetposType"
+			],
+			[
+				"Year",
+				"Yearly"
+			],
+			[
+				"fre",
+				"freqOptions"
+			],
+			[
+				"time",
+				"timeout	setTimeout function"
+			],
+			[
+				"tim",
+				"timeout	setTimeout function"
+			],
+			[
+				"mod",
+				"moduleName"
+			],
+			[
+				"module",
+				"moduleName"
+			],
+			[
+				"modul",
+				"moduleName"
+			],
+			[
+				"res",
+				"resource"
+			],
+			[
+				"black",
+				"black-button-disabled"
+			],
+			[
+				"Res",
+				"Resourcechooser"
+			],
+			[
+				"get_class",
+				"get_class_methods"
+			],
+			[
+				"File",
+				"Filebrowser"
+			],
+			[
+				"errro",
+				"error_log"
+			],
+			[
+				"extras",
+				"extras_link"
+			],
+			[
+				"transpa",
+				"transparent"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"tidy php",
+				"Tidy PHP"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"snip wrap",
+				"Snippet: Wrap in try { … } catch (…) { … }"
+			],
+			[
+				"snip obj",
+				"Snippet: Object Method"
+			],
+			[
+				"rand",
+				"Random Message: Insert Random Message"
+			],
+			[
+				"ran",
+				"Random Message: Insert Random Message"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"package ",
+				"Package Control: List Packages"
+			],
+			[
+				"themr",
+				"Themr: Default"
+			],
+			[
+				"them",
+				"Themr: Soda Light"
+			],
+			[
+				"jslint",
+				"Preferences: JSLint Settings – Default"
+			],
+			[
+				"discover",
+				"Package Control: Discover Packages"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			],
+			[
+				"consol",
+				"Set Syntax: R Console"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/NEW DevBox/rodil/application/configs/manifest.ini",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/views/attachmentlist.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/tmpl/print.tmpl",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/tmpl/toolbar.tmpl",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/tmpl/uploadprogress.tmpl",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/models/attachment.js",
+		"/Volumes/NEW DevBox/rodil/public/AJAXCalendar.class.php",
+		"/Volumes/NEW DevBox/rodil/public/js/Calendar.js",
+		"/Volumes/NEW DevBox/rodil/public/transfer.php",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/css/userselector.css",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/tmpl/autocompleteitem.tmpl",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/css/attachmentlist.css",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/app.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/controllers/autocomplete.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/views/autocompletesection.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/tmpl/autocompletesection.tmpl",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/tmpl/attendeeselector.tmpl",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/views/attendeeselector.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/views/autocompleteitem.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/models/user.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/models/resource.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/models/group.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/models/distro.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/mixins/findanything.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/controllers/attachments.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/resourcechooser/controllers/grouplistcontroller.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/models/autocompletebase.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/controllers/autocompletesection.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/tmpl/main.tmpl",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/views/attendees.js",
+		"/Volumes/NEW DevBox/rodil/library/OGC/js/localstore.js",
+		"/Volumes/NEW DevBox/rodil/application/controllers/Rest/AutocompleteController.php",
+		"/Volumes/NEW DevBox/rodil/application/controllers/AutocompleteController.php",
+		"/Volumes/NEW DevBox/rodil/application/clientside/resourcechooser/controllers/alternatelistcontroller.js",
+		"/Volumes/NEW DevBox/rodil/application/models/Autocomplete.php",
+		"/Volumes/NEW DevBox/rodil/application/clientside/recurrencetab/tmpl/daily.tmpl",
+		"/Volumes/NEW DevBox/rodil/application/clientside/recurrencetab/controllers/rrulecontroller.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/recurrencetab/models/dailymodel.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/recurrencetab/css/recurrencetab.css",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/models/event.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/emailattendees/controllers/AutocompleteController.js",
+		"/Volumes/NEW DevBox/rodil/public/tools/backfill_recur_endtimes.php",
+		"/Volumes/NEW DevBox/rodil/public/class/RecurrenceRule.php",
+		"/Volumes/NEW DevBox/rodil/public/class/RecurrenceCache.php",
+		"/Volumes/NEW DevBox/rodil/application/configs/rest.ini",
+		"/Volumes/NEW DevBox/rodil/library/OGC/Util/Date.php",
+		"/Volumes/NEW DevBox/rodil/library/OGC/Util/DateTime.php",
+		"/Volumes/NEW DevBox/rodil/application/controllers/GroupsController.php",
+		"/Volumes/NEW DevBox/rodil/library/OGC/Controller/Rest.php",
+		"/Volumes/NEW DevBox/rodil/application/controllers/EventwindowController.php",
+		"/Volumes/NEW DevBox/rodil/application/views/scripts/autocomplete/getlist.phtml",
+		"/Volumes/NEW DevBox/rodil/cli/recurcache_full_clear.php",
+		"/Volumes/NEW DevBox/rodil/library/OGC/js/utcdate.js",
+		"/Volumes/NEW DevBox/rodil/public/js/UTCDate.js",
+		"/Volumes/NEW DevBox/rodil/application/controllers/Rest/AttachmentController.php",
+		"/Volumes/NEW DevBox/rodil/application/controllers/Rest/EventController.php",
+		"/Volumes/NEW DevBox/rodil/application/controllers/IndexController.php",
+		"/Volumes/NEW DevBox/rodil/library/OGC/js/plugins/fileuploader.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/tmpl/attachmentlist.tmpl",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/views/uploadprogress.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/views/base.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/views/print.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/css/eventwindow.css",
+		"/Volumes/NEW DevBox/rodil/application/clientside/resourcechooser/css/resourcechooser.css",
+		"/Volumes/NEW DevBox/rodil/library/Bravo/View/Helper/Minify.php",
+		"/Volumes/NEW DevBox/rodil/application/layouts/scripts/layout.phtml",
+		"/Volumes/NEW DevBox/rodil/library/OGC/js/helpers/ember.handlebarstransformview.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/emailattendees/tmpl/attachments.tmpl",
+		"/Volumes/NEW DevBox/rodil/public/config/test.inc",
+		"/Volumes/NEW DevBox/rodil/public/AJAXTransfer.class.php",
+		"/Volumes/NEW DevBox/rodil/application/clientside/emailattendees/views/attachments.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/emailattendees/tmpl/sendto.tmpl",
+		"/Volumes/NEW DevBox/rodil/application/clientside/emailattendees/tmpl/selectedRecipientList.tmpl",
+		"/Volumes/NEW DevBox/rodil/application/clientside/emailattendees/tmpl/emailattendees.tmpl",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/tmpl/droptarget.tmpl",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/views/freebusyquestion.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/views/main.js",
+		"/Volumes/NEW DevBox/rodil/public/upload.php",
+		"/Volumes/NEW DevBox/rodil/application/models/Userdomain.php",
+		"/Volumes/NEW DevBox/rodil/application/views/scripts/eventwindow/index.phtml",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/css/droptarget.css",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/tmpl/options.tmpl",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/views/options.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/views/flyouts.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/views/droptarget.js",
+		"/Volumes/NEW DevBox/rodil/public/class/User.php",
+		"/Volumes/NEW DevBox/rodil/application/configs/application.ini",
+		"/Volumes/NEW DevBox/rodil/application/Bootstrap.php",
+		"/Volumes/NEW DevBox/rodil/public/config/production.inc",
+		"/Volumes/NEW DevBox/rodil/public/config/staging.inc",
+		"/Volumes/NEW DevBox/rodil/public/config/development.inc",
+		"/Volumes/NEW DevBox/rodil/public/AJAXUpload.class.php",
+		"/Volumes/NEW DevBox/rodil/public/AJAXFiles.class.php",
+		"/Volumes/NEW DevBox/rodil/library/OGC/Plugin/RestRoutes.php",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/views/toolbar.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/css/details.css",
+		"/Volumes/NEW DevBox/rodil/library/OGC/js/unittests/eventwindowtest.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/css/progress.css",
+		"/Volumes/NEW DevBox/rodil/application/models/EventDomain.php",
+		"/Volumes/NEW DevBox/rodil/application/models/DbTable/Event.php",
+		"/Volumes/NEW DevBox/rodil/application/models/Rest/Filter.php",
+		"/Volumes/NEW DevBox/rodil/application/models/Rest/CollectionResponse.php",
+		"/Volumes/NEW DevBox/rodil/cli/recurcache_cleaner.php",
+		"/Volumes/NEW DevBox/rodil/application/clientside/recurrencetab/tmpl/main.tmpl",
+		"/Volumes/NEW DevBox/rodil/library/OGC/js/unittests/recurrencetabtest.js",
+		"/Volumes/NEW DevBox/rodil/library/OGC/js/unittests/emailattendeestest.js",
+		"/Volumes/NEW DevBox/rodil/application/views/scripts/jsunittest/index.phtml",
+		"/Volumes/NEW DevBox/rodil/application/views/scripts/recurrencetab/index.phtml",
+		"/Volumes/NEW DevBox/rodil/application/clientside/recurrencetab/app.js",
+		"/Volumes/NEW DevBox/rodil/library/Bravo/Minifier.php",
+		"/Volumes/NEW DevBox/rodil/public/class/DbTable.php",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/css/toolbar.css",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/css/seriesquestion.css",
+		"/Volumes/NEW DevBox/rodil/library/OGC/js/IE7.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/tmpl/attendees.tmpl",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/css/print.css",
+		"/Volumes/NEW DevBox/rodil/application/clientside/resourcechooser/views/main.js",
+		"/Volumes/NEW DevBox/rodil/public/class/Scheduleable.php",
+		"/Volumes/NEW DevBox/rodil/public/AJAXEvent.class.php",
+		"/Volumes/NEW DevBox/rodil/public/class/OrionUtil.php",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/css/freebusy.css",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/tmpl/freebusyquestion.tmpl",
+		"/Volumes/NEW DevBox/rodil/tests/support/rest/json/events.json",
+		"/Volumes/NEW DevBox/rodil/public/class/Event.php",
+		"/Volumes/NEW DevBox/rodil/public/class/ICalendar.php",
+		"/Volumes/NEW DevBox/rodil/application/clientside/recurrencetab/views/main.js",
+		"/Volumes/NEW DevBox/rodil/library/OGC/js/emberpre.js",
+		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/appinit.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow,*.js",
+			"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow",
+			"/Volumes/NEW DevBox/rodil/application/clientside",
+			"/Volumes/NEW DevBox/rodil/application/clientside,*.css",
+			"/Volumes/NEW DevBox/rodil/,*.css",
+			"/Volumes/NEW DevBox/rodil/",
+			"/Volumes/NEW DevBox/rodil/library/OGC",
+			"/Volumes/NEW DevBox/rodil/application/,*.php",
+			"/Volumes/NEW DevBox/rodil/application/,-*.js",
+			"/Volumes/NEW DevBox/rodil/application/",
+			"/Volumes/NEW DevBox/rodil/application/controllers",
+			"/Volumes/NEW DevBox/rodil/",
+			"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow",
+			"/Volumes/NEW DevBox/rodil/application/clientside",
+			"/Volumes/NEW DevBox/rodil",
+			"/Volumes/NEW DevBox/rodil/public/class",
+			"/Volumes/NEW DevBox/rodil/public/smarty",
+			"/Volumes/NEW DevBox/rodil/application/clientside/",
+			"/Volumes/NEW DevBox/rodil/application/clientside/recurrencetab",
+			"/Volumes/NEW DevBox/rodil/application",
+			"/Volumes/NEW DevBox/rodil/library/Zend/Application/",
+			"/Volumes/NEW DevBox/rodil/library/Zend/Application/Resource",
+			"/Volumes/NEW DevBox/rodil/library/OGC/",
+			"/Volumes/NEW DevBox/rodil/application/clientside",
+			"/Volumes/NEW DevBox/rodil/application/",
+			"/Volumes/NEW DevBox/rodil/application/clientside/recurrencetab",
+			"/Volumes/NEW DevBox/rodil/application/clientside",
+			"/Volumes/NEW DevBox/rodil/",
+			"/Volumes/NEW DevBox/rodil/**/*.js",
+			"/Volumes/NEW DevBox/rodil/",
+			"/Volumes/NEW DevBox/rodil/application/",
+			"/Volumes/NEW DevBox/rodil/application/clientside",
+			"/Volumes/NEW DevBox/rodil/application",
+			"/Volumes/NEW DevBox/rodil/public",
+			"/Volumes/NEW DevBox/rodil/application",
+			"/Volumes/NEW DevBox/rodil/library/OGC",
+			"/Volumes/NEW DevBox/rodil/application/",
+			"/Volumes/NEW DevBox/rodil/application/controllers",
+			"/Volumes/NEW DevBox/rodil/public/js",
+			"/Volumes/NEW DevBox/rodil/public/",
+			"/Volumes/NEW DevBox/rodil/public/js",
+			"/Volumes/NEW DevBox/rodil/application/clientside",
+			"/Volumes/NEW DevBox/rodil/application/",
+			"/Volumes/NEW DevBox/rodil/application/clientside/recurrencetab",
+			"/Volumes/NEW DevBox/rodil/application/clientside/",
+			"/Volumes/NEW DevBox/rodil/application/clientside/recurrencetab/",
+			"/Volumes/NEW DevBox/rodil/public/class",
+			"/Volumes/NEW DevBox/rodil/application/models",
+			"/Volumes/NEW DevBox/rodil/public/class",
+			"/Volumes/NEW DevBox/rodil/public",
+			"/Volumes/NEW DevBox/rodil/application/clientside",
+			"/Volumes/NEW DevBox/rodil/public/js",
+			"/Volumes/NEW DevBox/rodil/public/class/",
+			"/Volumes/NEW DevBox/rodil/application/clientside",
+			"/Volumes/NEW DevBox/rodil/application/",
+			"/Volumes/NEW DevBox/rodil/application/clientside",
+			"/Volumes/NEW DevBox/rodil/public/js",
+			"/Volumes/NEW DevBox/rodil/public/",
+			"/Volumes/NEW DevBox/rodil/public/smarty",
+			"/Volumes/NEW DevBox/rodil/public/js",
+			"/Volumes/NEW DevBox/rodil/application/clientside",
+			"/Volumes/NEW DevBox/rodil/public",
+			"/Volumes/NEW DevBox/rodil/application",
+			"/Volumes/NEW DevBox/rodil/",
+			"/Volumes/NEW DevBox/rodil/application",
+			"/Volumes/NEW DevBox/rodil/library/OGC/",
+			"/Volumes/NEW DevBox/rodil/application/clientside/",
+			"/Volumes/NEW DevBox/rodil/application/clientside/recurrencetab",
+			"/Volumes/NEW DevBox/rodil/public/",
+			"/Volumes/NEW DevBox/rodil/public/js",
+			"/Volumes/NEW DevBox/rodil/application/",
+			"/Volumes/NEW DevBox/rodil",
+			"/Volumes/NEW DevBox/rodil/application",
+			"/Volumes/NEW DevBox/rodil/application/",
+			"/Volumes/NEW DevBox/rodil/",
+			"/Volumes/NEW DevBox/rodil/public/class"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ember",
+			"OGC.eventwindow.Views.AttachmentList",
+			"attachment",
+			"uploadVisible",
+			"class",
+			"overflow: hidden",
+			"attach_wrapper",
+			"width: 17px;",
+			"switch",
+			"appTransferUrl",
+			"getBaseUrl",
+			"appTransferUrl",
+			"transfer",
+			"overflow",
+			");\n",
+			"');\n",
+			"this",
+			"autocompl",
+			"2000",
+			"allMatches",
+			"selectedIndex",
+			"console.log",
+			"none",
+			"this",
+			"scrollTop",
+			"selected",
+			"preventdefault",
+			"default",
+			"merge",
+			"250",
+			"2000",
+			"display",
+			"ar-matching",
+			"resize",
+			"sectionController",
+			"resource",
+			"group",
+			"console",
+			"group",
+			"attrBinding",
+			"matching",
+			"setDisplayUser",
+			"selected",
+			"sectionController",
+			"selected",
+			"monkey",
+			"stringify",
+			"auto",
+			"console",
+			"selector",
+			"3 of",
+			"auto_",
+			"dotted",
+			"5",
+			"group",
+			"user",
+			"Users",
+			"fullname",
+			"distromodel",
+			"userModel",
+			"model",
+			"searchKeyBinding",
+			"displayType",
+			"$rowcnt",
+			"cache",
+			"return",
+			"timezone",
+			"wsdl",
+			"autocomplete_dropdown",
+			"setdisplay",
+			"width",
+			"dif",
+			"div",
+			".resourcetrigger",
+			"users",
+			"debugger;",
+			"users",
+			"autocomplete_dropdown",
+			"grid_header",
+			"sendResponse",
+			"fromts",
+			"findanything",
+			"searchKey",
+			"resource_icon.png",
+			"cancelUpload",
+			"cancel",
+			"ellip",
+			"debugger",
+			"padding",
+			"activeElements",
+			"Riyadh",
+			"Riyadh87",
+			"Riyadh",
+			"filter",
+			"git_svn_file_version",
+			"version",
+			"state",
+			"}\n",
+			"\n                        ",
+			"byteformat",
+			"byte",
+			"decoration",
+			"18",
+			"pointer",
+			"===",
+			"icon_btn_attach_upload",
+			"compose",
+			"transfer",
+			"element",
+			"form",
+			"<form",
+			"input",
+			"<input",
+			"activeelement",
+			"pushobject",
+			"merge",
+			"completeQueue",
+			"onprogress",
+			"_files",
+			"newHotness",
+			"uploadqueue",
+			"getAttachmentDir",
+			"formdata",
+			"pushobject",
+			"FormData",
+			"isSupported",
+			"xhr",
+			"input"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"        \n",
+			"    ",
+			"};",
+			"  ",
+			"};",
+			"  ",
+			"    ",
+			"  ",
+			"    ",
+			"===",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.660476524177,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.jslint_result_view":
+	{
+		"height": 247.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"manif",
+				"application/configs/manifest.ini"
+			],
+			[
+				"trans",
+				"public/transfer.php"
+			],
+			[
+				"mani",
+				"application/configs/manifest.ini"
+			],
+			[
+				"manife",
+				"application/configs/manifest.ini"
+			],
+			[
+				"findany",
+				"application/clientside/eventwindow/mixins/findanything.js"
+			],
+			[
+				"localstore",
+				"library/OGC/js/localstore.js"
+			],
+			[
+				"autocompcont",
+				"application/controllers/Rest/AutocompleteController.php"
+			],
+			[
+				"autocomcont.php",
+				"application/controllers/Rest/AutocompleteController.php"
+			],
+			[
+				"autocomcont",
+				"application/controllers/AutocompleteController.php"
+			],
+			[
+				"autocompletephp",
+				"application/controllers/Rest/AutocompleteController.php"
+			],
+			[
+				"recurcache.php",
+				"public/class/RecurrenceCache.php"
+			],
+			[
+				"recurrencerule.php",
+				"public/class/RecurrenceRule.php"
+			],
+			[
+				"backrecurendtimes",
+				"public/tools/backfill_recur_endtimes.php"
+			],
+			[
+				"date.php",
+				"library/OGC/Util/Date.php"
+			],
+			[
+				"datetim",
+				"library/OGC/Util/DateTime.php"
+			],
+			[
+				"rest.php",
+				"library/OGC/Controller/Rest.php"
+			],
+			[
+				"rest.ini",
+				"application/configs/rest.ini"
+			],
+			[
+				"autocomplephp",
+				"application/models/Autocomplete.php"
+			],
+			[
+				"cli/",
+				"cli/recurcache_full_clear.php"
+			],
+			[
+				"utcdate",
+				"public/js/UTCDate.js"
+			],
+			[
+				"backfillrecurend",
+				"public/tools/backfill_recur_endtimes.php"
+			],
+			[
+				"attachcont",
+				"application/controllers/Rest/AttachmentController.php"
+			],
+			[
+				"eventcontro",
+				"application/controllers/Rest/EventController.php"
+			],
+			[
+				"attachcontro",
+				"application/controllers/Rest/AttachmentController.php"
+			],
+			[
+				"manifest",
+				"application/configs/manifest.ini"
+			],
+			[
+				"minify",
+				"library/Bravo/View/Helper/Minify.php"
+			],
+			[
+				"layout.phtml",
+				"application/layouts/scripts/layout.phtml"
+			],
+			[
+				"test.inc",
+				"public/config/test.inc"
+			],
+			[
+				"transfer.php",
+				"public/transfer.php"
+			],
+			[
+				"calendar.js",
+				"public/js/Calendar.js"
+			],
+			[
+				"attachcontroller",
+				"application/controllers/Rest/AttachmentController.php"
+			],
+			[
+				"index.phtml",
+				"application/views/scripts/eventwindow/index.phtml"
+			],
+			[
+				"boot",
+				"application/Bootstrap.php"
+			],
+			[
+				"application",
+				"application/configs/application.ini"
+			],
+			[
+				"production.inc",
+				"public/config/production.inc"
+			],
+			[
+				"testinc",
+				"public/config/test.inc"
+			],
+			[
+				"staging.inc",
+				"public/config/staging.inc"
+			],
+			[
+				"developm",
+				"public/config/development.inc"
+			],
+			[
+				"user.php",
+				"public/class/User.php"
+			],
+			[
+				"upload.php",
+				"public/upload.php"
+			],
+			[
+				"ajax",
+				"public/AJAXUpload.class.php"
+			],
+			[
+				"ajaxfil",
+				"public/AJAXFiles.class.php"
+			],
+			[
+				"rest",
+				"library/OGC/Plugin/RestRoutes.php"
+			],
+			[
+				"eventcont",
+				"application/controllers/Rest/EventController.php"
+			],
+			[
+				"evecon",
+				"application/controllers/EventwindowController.php"
+			],
+			[
+				"ogccontrorest",
+				"library/OGC/Controller/Rest.php"
+			],
+			[
+				"eventdomain",
+				"application/models/EventDomain.php"
+			],
+			[
+				"eventwindowcon",
+				"application/controllers/EventwindowController.php"
+			],
+			[
+				"event/index.ph",
+				"application/views/scripts/eventwindow/index.phtml"
+			],
+			[
+				"event/index.phtml",
+				"application/views/scripts/eventwindow/index.phtml"
+			],
+			[
+				"backrec",
+				"public/tools/backfill_recur_endtimes.php"
+			],
+			[
+				"evecontph",
+				"application/controllers/Rest/EventController.php"
+			],
+			[
+				"evencontphp",
+				"application/controllers/Rest/EventController.php"
+			],
+			[
+				"restrout",
+				"library/OGC/Plugin/RestRoutes.php"
+			],
+			[
+				"restphp",
+				"library/OGC/Controller/Rest.php"
+			],
+			[
+				"eventcontro.php",
+				"application/controllers/Rest/EventController.php"
+			],
+			[
+				"minif",
+				"library/Bravo/View/Helper/Minify.php"
+			],
+			[
+				"minifier",
+				"library/Bravo/Minifier.php"
+			],
+			[
+				"dbtable",
+				"public/class/DbTable.php"
+			],
+			[
+				"recurcache",
+				"public/class/RecurrenceCache.php"
+			],
+			[
+				"backfill",
+				"public/tools/backfill_recur_endtimes.php"
+			],
+			[
+				"sche",
+				"public/class/Scheduleable.php"
+			],
+			[
+				"ajaclaclaphp",
+				"public/AJAXCalendar.class.php"
+			],
+			[
+				"ajaxeveclaphp",
+				"public/AJAXEvent.class.php"
+			],
+			[
+				"recurcachphp",
+				"public/class/RecurrenceCache.php"
+			],
+			[
+				"recurcach",
+				"public/class/RecurrenceCache.php"
+			],
+			[
+				"ajaxeventclaphp",
+				"public/AJAXEvent.class.php"
+			],
+			[
+				"layout.pht",
+				"application/layouts/scripts/layout.phtml"
+			],
+			[
+				"event.php",
+				"public/class/Event.php"
+			],
+			[
+				"ajaeven.php",
+				"public/AJAXEvent.class.php"
+			],
+			[
+				"icalendar.php",
+				"public/class/ICalendar.php"
+			],
+			[
+				"rest/eventcont",
+				"application/controllers/Rest/EventController.php"
+			],
+			[
+				"eventdoma",
+				"application/models/EventDomain.php"
+			],
+			[
+				"backfillrecuendtime",
+				"public/tools/backfill_recur_endtimes.php"
+			],
+			[
+				"recurcachephp",
+				"public/class/RecurrenceCache.php"
+			],
+			[
+				"recucaceh",
+				"public/class/RecurrenceCache.php"
+			],
+			[
+				"rest.ph",
+				"library/OGC/Controller/Rest.php"
+			],
+			[
+				"emberpre",
+				"library/OGC/js/emberpre.js"
+			],
+			[
+				"main.js",
+				"application/clientside/eventwindow/views/main.js"
+			],
+			[
+				"emberdata",
+				"library/OGC/js/emberdata.js"
+			],
+			[
+				"attachcontrbast",
+				"tests/application/controllers/Rest/AttachmentControllerBasicTest.php"
+			],
+			[
+				"emberdat",
+				"library/OGC/js/emberdata.js"
+			],
+			[
+				"restrou",
+				"library/OGC/Plugin/RestRoutes.php"
+			],
+			[
+				"restroutes",
+				"library/OGC/Plugin/RestRoutes.php"
+			],
+			[
+				"restroute",
+				"library/OGC/Plugin/RestRoutes.php"
+			],
+			[
+				"config.in",
+				"public/config.inc"
+			],
+			[
+				"orionutil",
+				"public/class/OrionUtil.php"
+			],
+			[
+				"recutestjs",
+				"library/OGC/js/unittests/recurrencetabtest.js"
+			],
+			[
+				"rectestjs",
+				"library/OGC/js/unittests/recurrencetabtest.js"
+			],
+			[
+				"ember.js",
+				"library/OGC/js/ember.js"
+			],
+			[
+				"appliini",
+				"application/configs/application.ini"
+			],
+			[
+				"bootstrap",
+				"application/Bootstrap.php"
+			],
+			[
+				"csstpl",
+				"public/smarty/css.tpl"
+			],
+			[
+				"recurtabtestjs",
+				"library/OGC/js/unittests/recurrencetabtest.js"
+			],
+			[
+				"jsunit/",
+				"application/views/scripts/jsunittest/index.phtml"
+			],
+			[
+				"recurtestjs",
+				"library/OGC/js/unittests/recurrencetabtest.js"
+			],
+			[
+				"eveed",
+				"public/js/EventEdit.js"
+			],
+			[
+				"css.tp",
+				"public/smarty/css.tpl"
+			],
+			[
+				"css.tpl",
+				"public/smarty/css.tpl"
+			],
+			[
+				"recurrule.php",
+				"public/class/RecurrenceRule.php"
+			],
+			[
+				"public/class/recure",
+				"public/class/RecurrenceRule.php"
+			],
+			[
+				"ajax.php",
+				"library/OGC/Plugin/Ajax.php"
+			],
+			[
+				"auth",
+				"library/OGC/Plugin/Auth.php"
+			],
+			[
+				"zend/router",
+				"library/Zend/Application/Resource/Router.php"
+			],
+			[
+				"eventwincont",
+				"application/controllers/EventwindowController.php"
+			],
+			[
+				"eventwindow/inde",
+				"application/views/scripts/eventwindow/index.phtml"
+			],
+			[
+				"eventedit",
+				"public/js/EventEdit.js"
+			],
+			[
+				"emberenv",
+				"library/OGC/js/ember.env.js"
+			],
+			[
+				"icalendar",
+				"public/class/ICalendar.php"
+			],
+			[
+				"layoutphtml",
+				"application/layouts/scripts/layout.phtml"
+			],
+			[
+				"layout",
+				"public/js/Layout.js"
+			],
+			[
+				"soap2.php",
+				"public/soap2.php"
+			],
+			[
+				"eventwind",
+				"application/controllers/EventwindowController.php"
+			],
+			[
+				"eventdom",
+				"application/models/EventDomain.php"
+			],
+			[
+				"restrouts",
+				"library/OGC/Plugin/RestRoutes.php"
+			],
+			[
+				"restin",
+				"application/configs/rest.ini"
+			],
+			[
+				"caldavpropfin",
+				"public/class/CalDavWorker_propfind.php"
+			],
+			[
+				"calendar.php",
+				"public/class/Calendar.php"
+			],
+			[
+				"restr",
+				"library/OGC/Plugin/RestRoutes.php"
+			],
+			[
+				"ogc/rest.php",
+				"library/OGC/Controller/Rest.php"
+			],
+			[
+				"usersel",
+				"public/js/UserSelector.js"
+			],
+			[
+				"eventedit.js",
+				"public/js/EventEdit.js"
+			],
+			[
+				"ogcrest",
+				"library/OGC/Controller/Rest.php"
+			],
+			[
+				"ogc/rest",
+				"library/OGC/Controller/Rest.php"
+			],
+			[
+				"controller/rest",
+				"library/OGC/Controller/Rest.php"
+			],
+			[
+				"zend/controller/action",
+				"library/Zend/Controller/Action.php"
+			],
+			[
+				"monthly",
+				"application/clientside/recurrencetab/models/monthlymodel.js"
+			],
+			[
+				"model/eventdom",
+				"application/models/EventDomain.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true
+}
