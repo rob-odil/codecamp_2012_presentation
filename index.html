@@ -26,7 +26,7 @@
 	
 	<body>
 		
-		<div class="reveal">
+		<div id="main_thing" class="reveal">
 
 			<!-- Used to fade in a background when a specific slide state is reached -->
 			<div class="state-background"></div>
@@ -34,14 +34,14 @@
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
                 <section>
-                    <h1>Unit testing the frontend</h1><br>
-                    <p>Navigating the minefield of client side testing</p><br>
+                        <h1>Unit testing the frontend</h1><br>
+                        <p>Navigating the minefield of client side testing</p><br>
 
-                    <p style="font-size:18px;">
-                        <strong>Presenters:</strong>
-                        Rob Odil &
-                        Brendan Hill
-                    </p>
+                        <p style="font-size:18px;">
+                            <strong>Presenters:</strong>
+                            Rob Odil &
+                            Brendan Hill
+                        </p>
                 </section>
 
                 <section>
@@ -153,9 +153,22 @@ test('Make sure footer can append', function () {
                 <section>
                     <h2>Ember Test Example</h2>
 
-                    <pre><code>
+                    <pre><code style="font-size:16px;">App.Model = Ember.Object.extend({
+    fname: '',
+    lname: '',
+    fullName: function () {
+        return this.get('fname') + ' ' + this.get('lname');
+    }.property('fname', 'lname')
+});
 
-                    </code></pre>
+test('Test that full name works', function () {
+    Ember.run(function () {
+        var mdl = App.Model.create({});
+        mdl.set('fname', 'John').set('lname', 'Doe');
+    });
+
+    equal(mdl.get('fullName'), 'John Doe', 'Magic happened.');
+});</code></pre>
                 </section>
 
                 <section>
@@ -166,6 +179,91 @@ test('Make sure footer can append', function () {
                         <li>Isolating AJAX tests</li>
                     </ul>
                 </section>
+                
+                <section>
+                    <h2>Sinon Test Spy Example</h2>
+
+                    <pre><code style="font-size:16px;">var testCallbacks = function (callback) {
+    // Do the work. maybe update the dom
+    $('body').append('something added');
+    return callback();
+};
+
+test('Sample sinon spy in action', function () {
+    var theSpy = sinon.spy();
+    testCallbacks(theSpy);
+
+    ok(theSpy.calledOnce, 'Our spy was called.');
+});</code></pre>
+
+                </section>
+
+
+
+                
+                <section>
+                    <h2>Sinon Stub Example</h2>
+
+                    <pre><code style="font-size:16px;">var testStubs = function (callback) {
+    // Do the work. maybe update the dom
+    $('body').append('something added');
+    return callback();
+};
+
+test('Sinon stub used to force return value', function () {
+    var theStub = sinon.stub().returns(42);
+
+    equal(testStubs(theStub), 42, 'Returned value is correct');
+});</code></pre>
+
+                </section>
+
+
+
+                
+                <section>
+                    <h2>Sinon Mock Example</h2>
+
+                    <pre><code style="font-size:16px;">var apiToBe = {
+    futureMethod: function () {
+        // doesn't do anything yet
+    }
+};
+
+test('sinon api fakes implementation of api', function () {
+    var mock = sinon.mock(apiToBe);
+    mock.expects('futureMethod').once().returns(42);
+
+    equal(apiToBe.futureMethod(), 42, 'The returned value is correct');
+    ok(mock.verify(), 'Verify that the method was only called once');
+});</code></pre>
+
+                </section>
+                
+                <section>
+                    <h3>Sinon AJAX Test Example</h3>
+
+                    <pre><code style="font-size:16px;">function getServerData() {
+    jQuery.ajax({
+        url: "/data/",
+        success: function (data) {$('body').append(data.key);}
+    });
+}
+
+test('Test a fake ajax request', function () {
+    var fakeServer = sinon.fakeServer.create();
+    getServerData();
+    fakeServer.requests[0].respond(200,
+        {'Content-Type': 'application/json'},
+        JSON.stringify({key: 'value'})
+    );
+    
+    equal('/data/', fakeServer.requests[0].url, 'Used correct URL');
+    equal($('body').text(), 'value', 'Dom was updated');
+    fakeServer.restore();
+}</code></pre>
+
+                </section>
 
                 <section>
                     <h2>PhantomJS? Sounds scary!</h2><br>
@@ -175,51 +273,90 @@ test('Make sure footer can append', function () {
                         <li>Integration with other tools</li>
                     </ul>
                 </section>
-
+                
                 <section>
-                    <h2>Questions?</h2><br>
+                    <h2>Phantom Use Cases</h2><br>
 
-                    <p>
-                        Got some?
-                    </p><br>
-                    <p>
-                        Fire away!!!
-                    </p>
+                    <ul>
+                        <li>Using a file watcher for change feedback
+                            <ul>
+                                <li>Grunt</li>
+                                <li>Yeoman</li>
+                            </ul>
+                        </li>
+                        <li>Integrating with continuous integration system
+                            <ul>
+                                <li>Jenkins / Hudson</li>
+                                <li>Travis CI</li>
+                                <li>Team City</li>
+                            </ul>
+                        </li>
+                    </ul>
+
+                </section>
+                
+                <section>
+                    <h2>A Sample Application</h2><br>
+
+                    Demo Time
                 </section>
 
                 <section>
-                    <h2>Links</h2><br>
+                    <h2>Links & Contact</h2>
+                    <div style="font-size:20px;line-height:24px;">
+                        Ember: <a href="http://emberjs.com/" style="vertical-align:inherit;">http://emberjs.com/</a><br>
+                        Qunit: <a href="http://qunitjs.com/" style="vertical-align:inherit;">http://qunitjs.com/</a><br>
+                        Sinon: <a href="http://sinonjs.org/" style="vertical-align:inherit;">http://sinonjs.org/</a><br>
+                        Phantom: <a href="http://phantomjs.org/" style="vertical-align:inherit;">http://phantomjs.org/</a><br><br>
+                        Sample Project: <a href="http://x.co/cc2012proj" style="vertical-align:inherit;">http://x.co/cc2012proj</a><br>
+                        This Presentation: <a href="http://x.co/cc2012pres" style="vertical-align:inherit;">http://x.co/cc2012pres</a><br><br>
 
-                    <a href="http://emberjs.com/">http://emberjs.com/</a><br><br>
-                    <a href="http://qunitjs.com/">http://qunitjs.com/</a><br><br>
-                    <a href="http://sinonjs.org/">http://sinonjs.org/</a><br><br>
-                    <a href="http://phantomjs.org/">http://phantomjs.org/</a>
+                        Rob: <a href="mailto:rodil@godaddy.com">rodil@godaddy.com</a><br>
+                        Brendan: <a href="mailto:bhill@godaddy.com">bhill@godaddy.com</a>
+                    </div>
+                </section>
+
+                <section>
+                    <h3>Comments, Questions, Suggestions?</h3><br>
+
+                    <p>
+                        Fire away!!!
+                    </p>
                 </section>
 
 			</div>
 
 			<!-- The navigational controls UI -->
 			<aside class="controls">
-				<a class="left" href="#">&#x25C4;</a>
-				<a class="right" href="#">&#x25BA;</a>
-				<a class="up" href="#">&#x25B2;</a>
-				<a class="down" href="#">&#x25BC;</a>
+				<a class="left" style="display:none;" href="#">&#x25C4;</a>
+				<a class="right" style="display:none;" href="#">&#x25BA;</a>
+				<a class="up" style="display:none" href="#">&#x25B2;</a>
+				<a class="down" style="display: none;" href="#">&#x25BC;</a>
+                <a href="#" onclick="togFull();" style="text-align:center;">&#x25B2;</a>
 			</aside>
 
 			<!-- Presentation progress bar -->
 			<div class="progress"><span></span></div>
-			
 		</div>
 
 		<script src="lib/js/head.min.js"></script>
 		<script src="js/reveal.min.js"></script>
 
 		<script>
-			
+
+            function togFull() {
+                if (!document.webkitIsFullScreen) {
+                    document.body.webkitRequestFullScreen();
+                } else {
+                    document.webkitCancelFullScreen();
+                }
+            }
+
+
 			// Full list of configuration options available here:
 			// https://github.com/hakimel/reveal.js#configuration
 			Reveal.initialize({
-				controls: false,
+				controls: true,
 				progress: true,
 				history: true,
 				
