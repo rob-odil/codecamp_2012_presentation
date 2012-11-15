@@ -64,10 +64,42 @@
                     <h2>What's This Ember Thing?</h2><br>
                     <ul>
                         <li>Model/View/Controller framework</li>
-                        <li>Hash routing and </li>
                         <li>Databinding to the dom</li>
                         <li>Clientside templating (Handlebars)</li>
                     </ul>
+                </section>
+
+                <section>
+                    <h2>Object Binding Example</h2>
+                    <pre><code>MyApp.president = Ember.Object.create({
+    name: "Barack Obama"
+});
+
+MyApp.country = Ember.Object.create({
+  // Ending a property with 'Binding' tells Ember to
+  // create a binding to the presidentName property.
+  presidentNameBinding: 'MyApp.president.name'
+});
+
+// Later, after Ember has resolved bindings...
+MyApp.country.get('presidentName');
+
+// "Barack Obama"</code></pre>
+                </section>
+
+                <section>
+                    <h2>DOM Binding Example</h2>
+
+                    <span style="font-size: 16px;">In the handlebars template:</span>
+                    <pre><code>&lt;p&gt;Property {{App.model.property}}&lt;/p&gt;</code></pre>
+
+                    <span style="font-size: 16px;">With javascript code:</span>
+                    <pre><code>App.model = Ember.Object.create({
+  property: 'is set'
+});</code></pre>
+
+                    <span style="font-size: 16px;">Browser output:</span><br>
+                    Property is set
                 </section>
 
                 <section>
@@ -78,6 +110,52 @@
                         <li>Simple set of assertions</li>
                         <li>Reports passed/failed tests</li>
                     </ul>
+                </section>
+
+                <section>
+                    <h2>Testing an API Example</h2>
+
+                    <pre><code>
+var easyMath = {
+    timesTwo: function (input) {
+        return input * 2;
+    }
+};
+
+test('Make sure math works', function () {
+    equal(6, easyMath.timesTwo(3), '3 * 2 = 6');
+});</code></pre>
+                </section>
+
+                <section>
+                    <h2>Testing the DOM Example</h2>
+
+                    <pre><code>var pageBuilder = {
+    insertFooter: function () {
+        $('body').append('&lt;div id="footer"&gt;&lt;/div&gt;');
+    }
+};
+
+test('Make sure footer can append', function () {
+    pageBuilder.insertFooter();
+
+    equal($('#footer').length, 1, 'Footer did append');
+});</code></pre>
+                </section>
+
+                <section>
+                    <h2>Ember Testing Gotcha</h2><br>
+                    <ul>
+                        <li>Views and bindings aren't real time</li>
+                        <li>Ember resolves bindings in runloops</li>
+                </section>
+
+                <section>
+                    <h2>Ember Test Example</h2>
+
+                    <pre><code>
+
+                    </code></pre>
                 </section>
 
                 <section>
@@ -117,8 +195,6 @@
                     <a href="http://sinonjs.org/">http://sinonjs.org/</a><br><br>
                     <a href="http://phantomjs.org/">http://phantomjs.org/</a>
                 </section>
-
-
 
 			</div>
 

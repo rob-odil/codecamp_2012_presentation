@@ -420,6 +420,7 @@
 	},
 	"file_history":
 	[
+		"/Users/rodil/projects/codecamp_2012_presentation/index.html",
 		"/Volumes/NEW DevBox/rodil/application/configs/manifest.ini",
 		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/views/attachmentlist.js",
 		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/tmpl/print.tmpl",
@@ -546,8 +547,7 @@
 		"/Volumes/NEW DevBox/rodil/public/class/Event.php",
 		"/Volumes/NEW DevBox/rodil/public/class/ICalendar.php",
 		"/Volumes/NEW DevBox/rodil/application/clientside/recurrencetab/views/main.js",
-		"/Volumes/NEW DevBox/rodil/library/OGC/js/emberpre.js",
-		"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow/appinit.js"
+		"/Volumes/NEW DevBox/rodil/library/OGC/js/emberpre.js"
 	],
 	"find":
 	{
@@ -555,7 +555,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
 			"/Volumes/NEW DevBox/rodil/application/clientside/eventwindow,*.js",
@@ -641,6 +641,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"controls",
+			"aside",
+			"h1",
 			"ember",
 			"OGC.eventwindow.Views.AttachmentList",
 			"attachment",
@@ -765,10 +768,7 @@
 			"getAttachmentDir",
 			"formdata",
 			"pushobject",
-			"FormData",
-			"isSupported",
-			"xhr",
-			"input"
+			"FormData"
 		],
 		"highlight": true,
 		"in_selection": false,
