@@ -144,6 +144,20 @@ test('Make sure footer can append', function () {
                 </section>
 
                 <section>
+                    <h2>Async Testing Example</h2>
+
+                    <pre><code>test('Testing async operations', function () {
+    stop();
+    setTimeout(function () {
+        ok('Something' !== 'else', 'always pass');
+        start();
+    }, 1000);
+
+    ok('thing' === 'thing', 'always pass');
+});</code></pre>
+                </section>
+
+                <section>
                     <h2>Ember Testing Gotcha</h2><br>
                     <ul>
                         <li>Views and bindings aren't real time</li>
@@ -162,10 +176,10 @@ test('Make sure footer can append', function () {
 });
 
 test('Test that full name works', function () {
-    Ember.run(function () {
-        var mdl = App.Model.create({});
-        mdl.set('fname', 'John').set('lname', 'Doe');
-    });
+    Ember.run.begin();
+    var mdl = App.Model.create({});
+    mdl.set('fname', 'John').set('lname', 'Doe');
+    Ember.run.end();
 
     equal(mdl.get('fullName'), 'John Doe', 'Magic happened.');
 });</code></pre>
